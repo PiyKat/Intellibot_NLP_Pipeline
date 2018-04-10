@@ -12,19 +12,16 @@ The project only works on <b>Python2.7</b> as of now due to dependencies, but yo
 
 1. Clone the repository
 	```
-
 	git clone https://github.com/PiyKat/Intellibot_NLP_Pipeline
 	```
 
 2. Install the requirements via requirements.txt
 	```
-
 	pip install requirements.txt
 	```
 3. Run alpha_intellibot.py script
 	```
-
-	python3.5 alpha_intellibot.py
+	python2.7 alpha_intellibot.py
 	```
 
 ### Project Description
