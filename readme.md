@@ -3,30 +3,30 @@
 The project has been created with an intention of creating a service bot that accepts user input, prases it using traditional NLP techniques in order to classify the serviuce request into services and extract relevant entities, and then call the relevant service request.
 
 
-## Prerequisites
+# Prerequisites
 
 The project only works on <b>Python2.7</b> as of now due to dependencies, but you can expect it to work with Python 3+ as the integration with official python packages provided by Google is under development. Kindly refer to the requirements.txt file for checking the rest of the dependencies.
 
 
-### Installing
+# Installing
 
 1. Clone the repository
 
-'''
-git clone https://github.com/PiyKat/Intellibot_NLP_Pipeline
-'''
+
+	git clone https://github.com/PiyKat/Intellibot_NLP_Pipeline
+
 
 2. Install the requirements via requirements.txt
 
-'''
-pip install requirements.txt
-'''
+
+	pip install requirements.txt
+
 
 3. Run alpha_intellibot.py script
 
-'''
-python3.5 alpha_intellibot.py
-'''
+
+	python3.5 alpha_intellibot.py
+
 
 ### Project Description
 
